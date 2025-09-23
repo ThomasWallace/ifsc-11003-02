@@ -1,0 +1,23 @@
+/* CSS Demo Stylesheet*/
+
+
+/* Color Theme Swatches in Hex */
+.Golf-1-hex { color: #126834; }
+.Golf-2-hex { color: #1E4A23; }
+.Golf-3-hex { color: #43B749; }
+.Golf-4-hex { color: #FDE4A7; }
+.Golf-5-hex { color: #FFD04C; }
+
+/* Color Theme Swatches in RGBA */
+.Golf-1-rgba { color: rgba(17, 103, 52, 1); }
+.Golf-2-rgba { color: rgba(29, 73, 35, 1); }
+.Golf-3-rgba { color: rgba(66, 182, 73, 1); }
+.Golf-4-rgba { color: rgba(253, 228, 167, 1); }
+.Golf-5-rgba { color: rgba(255, 207, 75, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Golf-1-hsla { color: hsla(143, 70, 23, 1); }
+.Golf-2-hsla { color: hsla(126, 42, 20, 1); }
+.Golf-3-hsla { color: hsla(123, 46, 49, 1); }
+.Golf-4-hsla { color: hsla(42, 95, 82, 1); }
+.Golf-5-hsla { color: hsla(44, 100, 64, 1); }
